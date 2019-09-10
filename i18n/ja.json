@@ -491,7 +491,7 @@
   "FIRMWARE_UPDATE_INSTALLED": "更新処理(){{updateId}})を完了しました。",
   "SCHEDULE_CREATED_FAILED": "スケジュールを作成できません。ステータス：{{STATUS}} 詳細：{{message}}",
   "SCHEDULE_CREATED": "スケジュール({{schedule}})を作成しました。",
-  "FIRMWARE_UPDATE_INSTALLED_TITLE": "成功",
+  "FIRMWARE_UPDATE_INSTALLED_TITLE": "完了",
   "FIRMWARE_UPDATE_INSTALLED_BODY": "更新処理({{updateId}})が完了しました。",
   "FIRMWARE_UPDATE_INSTALL_FAILED_TITLE": "更新処理({{updateId}})エラー",
   "FIRMWARE_UPDATE_INSTALL_FAILED_BODY": "{{message}}",
